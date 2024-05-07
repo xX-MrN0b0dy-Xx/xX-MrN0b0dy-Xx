@@ -1,3 +1,4 @@
+<h1 align="center">
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%      __  ___       _   __      __              __       %%
@@ -9,7 +10,12 @@
 %%                                                         %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ```
-Hello there, I'm not a dev, just an engineer having fun tinkering around with IT stuff.
+</h1>
+
+Hello there!!!
+
+I'm not a dev, just an engineer having fun tinkering around with IT stuff 👀.
+
 <!-- Check also [my selfhosted gitea instance](https://gitea.nowhere.ovh/Mr.Nobody) -->
 <!--
 **xX-MrN0b0dy-Xx/xX-MrN0b0dy-Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
