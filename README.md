@@ -17,7 +17,7 @@ I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff ðŸ‘
 # You can also find me here:
 [![Gitea-selfhosted](https://img.shields.io/badge/Gitea_self_hosted-609926.svg?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.nowhere.ovh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-ferrazzi/)
-[![My blog](https://img.shields.io/badge/my_blog-ffffff.svg?style=for-the-badge)](https://nowhere.ovh)
+<!-- [![My blog](https://img.shields.io/badge/my_blog-ffffff.svg?style=for-the-badge)](https://nowhere.ovh) -->
 <!-- [![Gitea-selfhosted](https://img.shields.io/badge/Gitea_self_hosted-609926.svg?style=for-the-badge&logo=gitea&logoColor=white)](https://git.via.ovh/Mr.Nobody) -->
 
 
