@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%      __  ___       _   __      __              __       %%
@@ -10,7 +12,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ```
 
-Hello there!!!
+</div>
+
+**👋🏼Hello there!**
 
 I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff 👀.
 
