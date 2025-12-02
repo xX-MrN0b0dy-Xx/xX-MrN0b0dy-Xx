@@ -16,17 +16,20 @@
 
 **👋🏼Hello there!**
 
-I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff 👀.
+I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff 👀. I recently found out that I love DevOp and I would love to get a job in this field.
 
 # You can also find me here:
 [![Web CV](https://img.shields.io/badge/web_cv-000000.svg?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-ferrazzi/)
 [![My blog](https://img.shields.io/badge/my_blog-ffffff.svg?style=for-the-badge)]()
-[![Gitea-selfhosted](https://img.shields.io/badge/Gitea_self_hosted-609926.svg?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.nowhere.ovh/Mr.Nobody)
-[![Opengist-selfhosted](https://img.shields.io/badge/opengist_self_hosted-000000.svg?style=for-the-badge&logo=&logoColor=white)](https://opengist.nowhere.ovh/)
+
+<!-- [![Gitea-selfhosted](https://img.shields.io/badge/Gitea_self_hosted-609926.svg?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.nowhere.ovh/Mr.Nobody) -->
+<!-- [![Opengist-selfhosted](https://img.shields.io/badge/opengist_self_hosted-000000.svg?style=for-the-badge&logo=&logoColor=white)](https://opengist.nowhere.ovh/) -->
+[![Forgejo-selfhosted](https://img.shields.io/badge/Forgejo_self_hosted-ff5500.svg?style=for-the-badge&logo=forgejo&logoColor=white)](https://git.smanettoni.ovh/mrnobody)
+[![Opengist-selfhosted](https://img.shields.io/badge/opengist_self_hosted-000000.svg?style=for-the-badge&logo=&logoColor=white)](https://gist.smanettoni.ovh/)
 <!-- [![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)](https://github.com/xX-MrN0b0dy-Xx) -->
 
-> Some of above sites are still under construction, be patient.
+> Some of the above sites are still under construction, be patient.
 
 # Quick review of some of my "tech" knowledge:
 ### Programming languages 
