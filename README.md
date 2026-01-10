@@ -23,6 +23,7 @@ I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff ðŸ‘
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-ferrazzi/)
 [![My blog](https://img.shields.io/badge/my_blog-ffffff.svg?style=for-the-badge)]()
 
+I recently migrated all my repos to my self-hosted instance of ForgeJo and the gists to a self-hosted instance of Opengist. This account will be utilized only to collaborate with other already existent repos here on GitHub.
 <!-- [![Gitea-selfhosted](https://img.shields.io/badge/Gitea_self_hosted-609926.svg?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.nowhere.ovh/Mr.Nobody) -->
 <!-- [![Opengist-selfhosted](https://img.shields.io/badge/opengist_self_hosted-000000.svg?style=for-the-badge&logo=&logoColor=white)](https://opengist.nowhere.ovh/) -->
 [![Forgejo-selfhosted](https://img.shields.io/badge/Forgejo_self_hosted-ff5500.svg?style=for-the-badge&logo=forgejo&logoColor=white)](https://git.smanettoni.ovh/mrnobody)
