@@ -29,7 +29,6 @@ I recently migrated all my repos to my self-hosted instance of ForgeJo and the g
 [![Forgejo-selfhosted](https://img.shields.io/badge/Forgejo_self_hosted-ff5500.svg?style=for-the-badge&logo=forgejo&logoColor=white)](https://git.smanettoni.ovh/mrnobody)
 [![Opengist-selfhosted](https://img.shields.io/badge/opengist_self_hosted-000000.svg?style=for-the-badge&logo=&logoColor=white)](https://gist.smanettoni.ovh/)
 
-
 # Quick review of some of my "tech" knowledge:
 
 ### Programming languages
@@ -37,6 +36,7 @@ I recently migrated all my repos to my self-hosted instance of ForgeJo and the g
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Matlab](https://img.shields.io/badge/MATLAB-DD6600?style=for-the-badge)](https://mathworks.com/products/matlab.html)
 [![C++](https://custom-icon-badges.herokuapp.com/badge/C++-004283.svg?style=for-the-badge&logo=cpp2&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### DevOps stuff
 
