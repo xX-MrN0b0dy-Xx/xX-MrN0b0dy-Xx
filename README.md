@@ -20,7 +20,7 @@ I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff ðŸ‘
 
 # You can also find me here:
 
-[![Personal Page](https://img.shields.io/badge/personal_page-000000.svg?style=for-the-badge)](https://giulio-ferrazzi.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge)](https://giulio-ferrazzi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-ferrazzi/)
 [![My blog](https://img.shields.io/badge/my_blog-ffffff.svg?style=for-the-badge)](https://nowhere.ovh)
 
