@@ -16,20 +16,19 @@
 
 **👋🏼Hello there!**
 
-I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff 👀. I recently found out that I love DevOp and I would love to get a job in this field.
+I'm not a dev, just a biomedical engineer having fun tinkering with IT stuff 👀. I recently found out that I love DevOp, so I'm studying hard to consilidate my knowledge and I would love to get a job in this field.
 
 # You can also find me here:
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge)](https://giulio-ferrazzi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-ferrazzi/)
-[![My blog](https://img.shields.io/badge/my_blog-ffffff.svg?style=for-the-badge)](https://nowhere.ovh)
 
 I recently migrated all my repos to my self-hosted instance of ForgeJo and the gists to my self-hosted instance of Opengist. This account will be utilized only to collaborate with other already existent repos here on GitHub.
 
 [![Forgejo-selfhosted](https://img.shields.io/badge/Forgejo_self_hosted-ff5500.svg?style=for-the-badge&logo=forgejo&logoColor=white)](https://git.smanettoni.ovh/mrnobody)
 [![Opengist-selfhosted](https://img.shields.io/badge/opengist_self_hosted-000000.svg?style=for-the-badge&logo=&logoColor=white)](https://gist.smanettoni.ovh/)
 
-# Quick review of some of my "tech" knowledge:
+# Quick review of some of my "tech" knowledge (to be updated):
 
 ### Programming languages
 
